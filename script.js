@@ -25,7 +25,6 @@ const factsAugust = [
 
   const factsDay30 = [
     "30 is the atomic number of zinc.",
-    "30 is a triangular number because 1+2+3+4+5+6+7+8 = 30.",
     "30 is a Harshad number, divisible by the sum of its digits (3+0=3).",
     "In Roman numerals, 30 is written as XXX. Hmmmmm.",
     "The pearl wedding anniversary celebrates 30 years of marriage.",
@@ -46,7 +45,6 @@ const factsAugust = [
     "The movie 'Titanic' premiered in 1997 and became the highest-grossing film at the time.",
     "In 1997, Wi-Fi was officially released for consumers.",
     "Hong Kong was handed back to China from British rule in 1997.",
-    "In sports, the Chicago Bulls won their 5th NBA title in 1997 with Michael Jordan.",
     "The Pokémon franchise debuted outside Japan in 1997, starting the global craze."
   ];
 
@@ -238,4 +236,5 @@ window.addEventListener('scroll', () => {
       emojis: ['🧁', '🏍️', '🖤', '🤍', '🎼', '🎹', '⭐', '🎧'],
     });
   }
+
 });
