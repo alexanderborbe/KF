@@ -31,7 +31,6 @@ const factsAugust = [
     "Saturn takes about 30 years to orbit the Sun once — a full Saturn return in astrology.",
     "There are 30 degrees in each sector of the zodiac circle.",
     "30 is the average score in bowling notation for a strike frame.",
-    "The sum of the squares of the divisors of 30 equals 55², a rare property.",
     "In many cultures, age 30 marks the transition into mature adulthood.",
     "April, June, September, and November all have 30 days."
   ];
@@ -238,3 +237,4 @@ window.addEventListener('scroll', () => {
   }
 
 });
+
